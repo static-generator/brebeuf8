@@ -1,8 +1,6 @@
 # brebeuf8
 ---
-![bba9bf3b-2d68-4bf3-97f1-cd7af90d9429](https://github.com/user-attachments/assets/a56f7aa0-062e-42de-b39f-18660bb77b24)
-
-# Hi! I am...
+# Hi!!! I am...
 ## Rio Vincent B. *Benavente*
 ---
 ---
@@ -10,7 +8,7 @@
 ## > I was born on February 18, 2010, at Napao, Bacacay, Albay
 ## > Currently living at Dugcal, Camaligan, Camarines Sur
 ---
-Hobbies
+#Hobbies
 ### Reading
 ### Journaling
 ### Studying Theology 
@@ -24,11 +22,11 @@ Hobbies
 ### - Minecraft Java
 ---
 # Favorite CODM Competitive Players
-## - Rush Senpai
-## - Kith
-## - Sisco
-## - iFerg
-## - Borg
+## - Rush Senpai ([title](https://www.example.com](https://www.youtube.com/channel/UCzuCPikQcGeh_fMn97EwYWw))
+## - Kith ([title](https://www.youtube.com/c/KithCODM))
+## - Sisco ([title](https://www.youtube.com/@Siscoo))
+## - iFerg ([title](https://www.youtube.com/@iFerg))
+## - Borg ([title](https://www.youtube.com/@borg.gggggg))
 ---
 # Socials
 ## > [Facebook](https://www.facebook.com)
