@@ -22,11 +22,11 @@
 ### - Minecraft Java
 ---
 # Favorite CODM Competitive Players
-## - Rush Senpai ([title](https://www.example.com](https://www.youtube.com/channel/UCzuCPikQcGeh_fMn97EwYWw))
-## - Kith ([title](https://www.youtube.com/c/KithCODM))
-## - Sisco ([title](https://www.youtube.com/@Siscoo))
-## - iFerg ([title](https://www.youtube.com/@iFerg))
-## - Borg ([title](https://www.youtube.com/@borg.gggggg))
+## - Rush Senpai ([Kuya_Senpai](https://www.example.com](https://www.youtube.com/channel/UCzuCPikQcGeh_fMn97EwYWw))
+## - Kith ([Kith](https://www.youtube.com/c/KithCODM))
+## - Sisco ([Sisco](https://www.youtube.com/@Siscoo))
+## - iFerg ([Fergy](https://www.youtube.com/@iFerg))
+## - Borg ([Borggg](https://www.youtube.com/@borg.gggggg))
 ---
 # Socials
 ## > [Facebook](https://www.facebook.com)
