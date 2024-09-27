@@ -8,7 +8,7 @@
 ## > I was born on February 18, 2010, at Napao, Bacacay, Albay
 ## > Currently living at Dugcal, Camaligan, Camarines Sur
 ---
-#Hobbies
+# Hobbies
 ### Reading
 ### Journaling
 ### Studying Theology 
