@@ -2,6 +2,7 @@
 ## Rio Vincent B. *Benavente*
 
 > Dugcal Camaligan
+
 > Hobbies
 - CODM
 - Badminton
