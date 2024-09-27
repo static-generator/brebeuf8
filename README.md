@@ -2,14 +2,12 @@
 
 # Hi! I am...
 ## Rio Vincent B. *Benavente*
-
+---
 # Introduction
 ## > I was born on February 18, 2010, at Napao, Bacacay, Albay
 ## > Currently living at Dugcal, Camaligan, Camarines Sur
 
 
-
-> Hobbies
 - CODM
 - Badminton
 - Reading and Writing
