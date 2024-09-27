@@ -1,6 +1,6 @@
 # brebeuf8
 ---
-![alt text]![bba9bf3b-2d68-4bf3-97f1-cd7af90d9429](https://github.com/user-attachments/assets/a56f7aa0-062e-42de-b39f-18660bb77b24)
+![bba9bf3b-2d68-4bf3-97f1-cd7af90d9429](https://github.com/user-attachments/assets/a56f7aa0-062e-42de-b39f-18660bb77b24)
 
 # Hi! I am...
 ## Rio Vincent B. *Benavente*
