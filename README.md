@@ -22,7 +22,7 @@
 ### - Minecraft Java
 ---
 # Favorite CODM Competitive Players
-## - Rush Senpai ([Kuya_Senpai])(https://www.example.com](https://www.youtube.com/channel/UCzuCPikQcGeh_fMn97EwYWw))
+## - Rush Senpai ([Kuya_Senpai](https://www.youtube.com/channel/UCzuCPikQcGeh_fMn97EwYWw))
 ## - Kith ([Kith](https://www.youtube.com/c/KithCODM))
 ## - Sisco ([Sisco](https://www.youtube.com/@Siscoo))
 ## - iFerg ([Fergy](https://www.youtube.com/@iFerg))
